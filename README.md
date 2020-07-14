@@ -25,13 +25,13 @@ Total GDP divided by the population gives the per capita GDP, which roughly meas
 India ranks 11th in the world in terms of total GDP; however, it lies at the 139th position in terms of per capita GDP.
 
 ## Data :
-The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India. The download instructions are provided in the next segment. The data for GDP analysis of the Indian states is divided into two parts:
+The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India. The data for GDP analysis of the Indian states is divided into two parts:
 
 Data I-A: This dataset consists of the GSDP (Gross State Domestic Product) data for the states and union territories.
 
 Data I-B: This dataset contains the distribution of GSDP among three sectors: the primary sector (agriculture), the secondary sector (industry) and the tertiary sector (services) along with taxes and subsidies. There is separate dataset for each of the states. One is expected to read the dataset for the available states and join these if needed.
 
-Data II: This section will require the dropout rate dataset apart from the dataset that you used in Part-1 of the case study. Download instructions are provided in the next segment.
+Data II: This section will require the dropout rate dataset apart from the dataset that you used in Part-1 of the case study.
  
 ## Description:
 There are two parts to this project. In the first part, we will analyse and compare the GDPs of various Indian states (both total and per capita). The GDP of a state is referred to as the GSDP (Gross State Domestic Product). Then, we will divide the states into four categories based on the GDP per capita, and for each of these four categories, we will analyse the sectors that contribute the most to the GDP (such as agriculture, real estate, manufacturing, etc.).
